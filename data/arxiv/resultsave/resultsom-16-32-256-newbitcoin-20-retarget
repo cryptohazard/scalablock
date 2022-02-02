@@ -1,0 +1,612 @@
+1617230293 - 2021-03-31 22:38:13.625   nActualTimespan = 251  before bounds
+1617230293 - 2021-03-31 22:38:13.625 Params().TargetTimespan() = 320    nActualTimespan = 251
+1617230584 - 2021-03-31 22:43:04.825   nActualTimespan = 264  before bounds
+1617230584 - 2021-03-31 22:43:04.825 Params().TargetTimespan() = 320    nActualTimespan = 264
+1617230948 - 2021-03-31 22:49:08.135   nActualTimespan = 290  before bounds
+1617230950 - 2021-03-31 22:49:10.136 Params().TargetTimespan() = 320    nActualTimespan = 290
+1617231027 - 2021-03-31 22:50:27.014   nActualTimespan = 75  before bounds
+1617231027 - 2021-03-31 22:50:27.014 Params().TargetTimespan() = 320    nActualTimespan = 80
+1617231036 - 2021-03-31 22:50:36.829   nActualTimespan = 75  before bounds
+1617231036 - 2021-03-31 22:50:36.829 Params().TargetTimespan() = 320    nActualTimespan = 80
+1617231144 - 2021-03-31 22:52:24.119   nActualTimespan = 106  before bounds
+1617231144 - 2021-03-31 22:52:24.119 Params().TargetTimespan() = 320    nActualTimespan = 106
+1617231164 - 2021-03-31 22:52:44.789   nActualTimespan = 106  before bounds
+1617231164 - 2021-03-31 22:52:44.789 Params().TargetTimespan() = 320    nActualTimespan = 106
+1617231625 - 2021-03-31 23:00:25.529   nActualTimespan = 439  before bounds
+1617231625 - 2021-03-31 23:00:25.529 Params().TargetTimespan() = 320    nActualTimespan = 439
+1617231862 - 2021-03-31 23:04:22.236   nActualTimespan = 246  before bounds
+1617231862 - 2021-03-31 23:04:22.236 Params().TargetTimespan() = 320    nActualTimespan = 246
+1617231874 - 2021-03-31 23:04:34.473   nActualTimespan = 246  before bounds
+1617231874 - 2021-03-31 23:04:34.473 Params().TargetTimespan() = 320    nActualTimespan = 246
+1617232131 - 2021-03-31 23:08:51.824   nActualTimespan = 253  before bounds
+1617232131 - 2021-03-31 23:08:51.824 Params().TargetTimespan() = 320    nActualTimespan = 253
+1617232149 - 2021-03-31 23:09:09.598   nActualTimespan = 253  before bounds
+1617232149 - 2021-03-31 23:09:09.598 Params().TargetTimespan() = 320    nActualTimespan = 253
+1617232151 - 2021-03-31 23:09:11.600   nActualTimespan = 253  before bounds
+1617232151 - 2021-03-31 23:09:11.600 Params().TargetTimespan() = 320    nActualTimespan = 253
+1617232483 - 2021-03-31 23:14:43.640   nActualTimespan = 335  before bounds
+1617232483 - 2021-03-31 23:14:43.641 Params().TargetTimespan() = 320    nActualTimespan = 335
+1617232486 - 2021-03-31 23:14:46.906   nActualTimespan = 335  before bounds
+1617232486 - 2021-03-31 23:14:46.906 Params().TargetTimespan() = 320    nActualTimespan = 335
+1617232483 - 2021-03-31 23:14:43.640   nActualTimespan = 335  before bounds
+1617232483 - 2021-03-31 23:14:43.641 Params().TargetTimespan() = 320    nActualTimespan = 335
+1617232486 - 2021-03-31 23:14:46.906   nActualTimespan = 335  before bounds
+1617232486 - 2021-03-31 23:14:46.906 Params().TargetTimespan() = 320    nActualTimespan = 335
+1617233415 - 2021-03-31 23:30:15.966   nActualTimespan = 897  before bounds
+1617233415 - 2021-03-31 23:30:15.966 Params().TargetTimespan() = 320    nActualTimespan = 897
+1617233415 - 2021-03-31 23:30:15.966   nActualTimespan = 897  before bounds
+1617233415 - 2021-03-31 23:30:15.966 Params().TargetTimespan() = 320    nActualTimespan = 897
+1617233424 - 2021-03-31 23:30:24.456   nActualTimespan = 820  before bounds
+1617233424 - 2021-03-31 23:30:24.456 Params().TargetTimespan() = 320    nActualTimespan = 820
+1617236392 - 2021-04-01 00:19:52.823   nActualTimespan = 1407  before bounds
+1617236392 - 2021-04-01 00:19:52.823 Params().TargetTimespan() = 320    nActualTimespan = 1280
+1617236392 - 2021-04-01 00:19:52.824   nActualTimespan = 311  before bounds
+1617236392 - 2021-04-01 00:19:52.824 Params().TargetTimespan() = 320    nActualTimespan = 311
+1617236392 - 2021-04-01 00:19:52.824   nActualTimespan = 197  before bounds
+1617236392 - 2021-04-01 00:19:52.824 Params().TargetTimespan() = 320    nActualTimespan = 197
+1617236392 - 2021-04-01 00:19:52.824   nActualTimespan = 461  before bounds
+1617236392 - 2021-04-01 00:19:52.824 Params().TargetTimespan() = 320    nActualTimespan = 461
+1617236392 - 2021-04-01 00:19:52.824   nActualTimespan = 268  before bounds
+1617236392 - 2021-04-01 00:19:52.824 Params().TargetTimespan() = 320    nActualTimespan = 268
+1617236392 - 2021-04-01 00:19:52.825   nActualTimespan = 215  before bounds
+1617236392 - 2021-04-01 00:19:52.825 Params().TargetTimespan() = 320    nActualTimespan = 215
+1617236461 - 2021-04-01 00:21:01.981   nActualTimespan = 196  before bounds
+1617236461 - 2021-04-01 00:21:01.981 Params().TargetTimespan() = 320    nActualTimespan = 196
+1617236547 - 2021-04-01 00:22:27.932   nActualTimespan = 1407  before bounds
+1617236547 - 2021-04-01 00:22:27.932 Params().TargetTimespan() = 320    nActualTimespan = 1280
+1617236632 - 2021-04-01 00:23:52.330   nActualTimespan = 163  before bounds
+1617236632 - 2021-04-01 00:23:52.330 Params().TargetTimespan() = 320    nActualTimespan = 163
+1617237583 - 2021-04-01 00:39:43.957   nActualTimespan = 260  before bounds
+1617237583 - 2021-04-01 00:39:43.957 Params().TargetTimespan() = 320    nActualTimespan = 260
+1617237583 - 2021-04-01 00:39:43.958   nActualTimespan = 260  before bounds
+1617237583 - 2021-04-01 00:39:43.958 Params().TargetTimespan() = 320    nActualTimespan = 260
+1617237583 - 2021-04-01 00:39:43.958   nActualTimespan = 335  before bounds
+1617237583 - 2021-04-01 00:39:43.958 Params().TargetTimespan() = 320    nActualTimespan = 335
+1617237613 - 2021-04-01 00:40:13.180   nActualTimespan = 260  before bounds
+1617237613 - 2021-04-01 00:40:13.181 Params().TargetTimespan() = 320    nActualTimespan = 260
+1617237746 - 2021-04-01 00:42:26.447   nActualTimespan = 225  before bounds
+1617237746 - 2021-04-01 00:42:26.448 Params().TargetTimespan() = 320    nActualTimespan = 225
+1617237756 - 2021-04-01 00:42:36.505   nActualTimespan = 225  before bounds
+1617237756 - 2021-04-01 00:42:36.505 Params().TargetTimespan() = 320    nActualTimespan = 225
+1617238040 - 2021-04-01 00:47:20.689   nActualTimespan = 282  before bounds
+1617238040 - 2021-04-01 00:47:20.689 Params().TargetTimespan() = 320    nActualTimespan = 282
+1617238046 - 2021-04-01 00:47:26.597   nActualTimespan = 282  before bounds
+1617238046 - 2021-04-01 00:47:26.597 Params().TargetTimespan() = 320    nActualTimespan = 282
+1617238341 - 2021-04-01 00:52:21.782   nActualTimespan = 294  before bounds
+1617238341 - 2021-04-01 00:52:21.782 Params().TargetTimespan() = 320    nActualTimespan = 294
+1617238356 - 2021-04-01 00:52:36.587   nActualTimespan = 294  before bounds
+1617238356 - 2021-04-01 00:52:36.587 Params().TargetTimespan() = 320    nActualTimespan = 294
+1617238793 - 2021-04-01 00:59:53.552   nActualTimespan = 436  before bounds
+1617238793 - 2021-04-01 00:59:53.553 Params().TargetTimespan() = 320    nActualTimespan = 436
+1617238810 - 2021-04-01 01:00:10.073   nActualTimespan = 436  before bounds
+1617238810 - 2021-04-01 01:00:10.073 Params().TargetTimespan() = 320    nActualTimespan = 436
+1617239055 - 2021-04-01 01:04:15.063   nActualTimespan = 242  before bounds
+1617239055 - 2021-04-01 01:04:15.063 Params().TargetTimespan() = 320    nActualTimespan = 242
+1617239057 - 2021-04-01 01:04:17.160   nActualTimespan = 242  before bounds
+1617239057 - 2021-04-01 01:04:17.160 Params().TargetTimespan() = 320    nActualTimespan = 242
+1617239304 - 2021-04-01 01:08:24.875   nActualTimespan = 247  before bounds
+1617239304 - 2021-04-01 01:08:24.875 Params().TargetTimespan() = 320    nActualTimespan = 247
+1617239329 - 2021-04-01 01:08:49.933   nActualTimespan = 247  before bounds
+1617239329 - 2021-04-01 01:08:49.933 Params().TargetTimespan() = 320    nActualTimespan = 247
+1617239763 - 2021-04-01 01:16:03.961   nActualTimespan = 432  before bounds
+1617239763 - 2021-04-01 01:16:03.961 Params().TargetTimespan() = 320    nActualTimespan = 432
+1617239771 - 2021-04-01 01:16:11.465   nActualTimespan = 432  before bounds
+1617239771 - 2021-04-01 01:16:11.465 Params().TargetTimespan() = 320    nActualTimespan = 432
+1617240009 - 2021-04-01 01:20:09.830   nActualTimespan = 237  before bounds
+1617240009 - 2021-04-01 01:20:09.830 Params().TargetTimespan() = 320    nActualTimespan = 237
+1617240033 - 2021-04-01 01:20:33.840   nActualTimespan = 237  before bounds
+1617240033 - 2021-04-01 01:20:33.840 Params().TargetTimespan() = 320    nActualTimespan = 237
+1617240424 - 2021-04-01 01:27:04.448   nActualTimespan = 389  before bounds
+1617240424 - 2021-04-01 01:27:04.448 Params().TargetTimespan() = 320    nActualTimespan = 389
+1617240427 - 2021-04-01 01:27:07.049   nActualTimespan = 389  before bounds
+1617240427 - 2021-04-01 01:27:07.049 Params().TargetTimespan() = 320    nActualTimespan = 389
+1617240748 - 2021-04-01 01:32:28.339   nActualTimespan = 320  before bounds
+1617240748 - 2021-04-01 01:32:28.339 Params().TargetTimespan() = 320    nActualTimespan = 320
+1617240787 - 2021-04-01 01:33:07.087   nActualTimespan = 320  before bounds
+1617240787 - 2021-04-01 01:33:07.087 Params().TargetTimespan() = 320    nActualTimespan = 320
+1617241061 - 2021-04-01 01:37:41.901   nActualTimespan = 273  before bounds
+1617241061 - 2021-04-01 01:37:41.901 Params().TargetTimespan() = 320    nActualTimespan = 273
+1617241102 - 2021-04-01 01:38:22.135   nActualTimespan = 273  before bounds
+1617241102 - 2021-04-01 01:38:22.135 Params().TargetTimespan() = 320    nActualTimespan = 273
+1617241481 - 2021-04-01 01:44:41.787   nActualTimespan = 379  before bounds
+1617241481 - 2021-04-01 01:44:41.788 Params().TargetTimespan() = 320    nActualTimespan = 379
+1617241494 - 2021-04-01 01:44:54.265   nActualTimespan = 379  before bounds
+1617241494 - 2021-04-01 01:44:54.265 Params().TargetTimespan() = 320    nActualTimespan = 379
+1617241741 - 2021-04-01 01:49:01.415   nActualTimespan = 245  before bounds
+1617241741 - 2021-04-01 01:49:01.415 Params().TargetTimespan() = 320    nActualTimespan = 245
+1617241752 - 2021-04-01 01:49:12.623   nActualTimespan = 245  before bounds
+1617241752 - 2021-04-01 01:49:12.623 Params().TargetTimespan() = 320    nActualTimespan = 245
+1617242425 - 2021-04-01 02:00:25.210   nActualTimespan = 669  before bounds
+1617242425 - 2021-04-01 02:00:25.210 Params().TargetTimespan() = 320    nActualTimespan = 669
+1617242426 - 2021-04-01 02:00:26.789   nActualTimespan = 669  before bounds
+1617242426 - 2021-04-01 02:00:26.789 Params().TargetTimespan() = 320    nActualTimespan = 669
+1617242644 - 2021-04-01 02:04:04.937   nActualTimespan = 217  before bounds
+1617242644 - 2021-04-01 02:04:04.937 Params().TargetTimespan() = 320    nActualTimespan = 217
+1617242649 - 2021-04-01 02:04:09.550   nActualTimespan = 217  before bounds
+1617242649 - 2021-04-01 02:04:09.550 Params().TargetTimespan() = 320    nActualTimespan = 217
+1617242914 - 2021-04-01 02:08:34.071   nActualTimespan = 263  before bounds
+1617242914 - 2021-04-01 02:08:34.072 Params().TargetTimespan() = 320    nActualTimespan = 263
+1617242939 - 2021-04-01 02:08:59.508   nActualTimespan = 263  before bounds
+1617242939 - 2021-04-01 02:08:59.508 Params().TargetTimespan() = 320    nActualTimespan = 263
+1617243498 - 2021-04-01 02:18:18.523   nActualTimespan = 557  before bounds
+1617243498 - 2021-04-01 02:18:18.523 Params().TargetTimespan() = 320    nActualTimespan = 557
+1617243500 - 2021-04-01 02:18:20.428   nActualTimespan = 557  before bounds
+1617243500 - 2021-04-01 02:18:20.428 Params().TargetTimespan() = 320    nActualTimespan = 557
+1617243663 - 2021-04-01 02:21:03.382   nActualTimespan = 162  before bounds
+1617243663 - 2021-04-01 02:21:03.383 Params().TargetTimespan() = 320    nActualTimespan = 162
+1617243718 - 2021-04-01 02:21:58.048   nActualTimespan = 162  before bounds
+1617243718 - 2021-04-01 02:21:58.048 Params().TargetTimespan() = 320    nActualTimespan = 162
+1617244242 - 2021-04-01 02:30:42.273   nActualTimespan = 524  before bounds
+1617244242 - 2021-04-01 02:30:42.273 Params().TargetTimespan() = 320    nActualTimespan = 524
+1617244243 - 2021-04-01 02:30:43.074   nActualTimespan = 524  before bounds
+1617244243 - 2021-04-01 02:30:43.074 Params().TargetTimespan() = 320    nActualTimespan = 524
+1617244526 - 2021-04-01 02:35:26.279   nActualTimespan = 282  before bounds
+1617244526 - 2021-04-01 02:35:26.279 Params().TargetTimespan() = 320    nActualTimespan = 282
+1617244563 - 2021-04-01 02:36:03.638   nActualTimespan = 282  before bounds
+1617244563 - 2021-04-01 02:36:03.638 Params().TargetTimespan() = 320    nActualTimespan = 282
+1617244886 - 2021-04-01 02:41:26.764   nActualTimespan = 322  before bounds
+1617244886 - 2021-04-01 02:41:26.764 Params().TargetTimespan() = 320    nActualTimespan = 322
+1617244912 - 2021-04-01 02:41:52.069   nActualTimespan = 322  before bounds
+1617244912 - 2021-04-01 02:41:52.069 Params().TargetTimespan() = 320    nActualTimespan = 322
+1617245112 - 2021-04-01 02:45:12.472   nActualTimespan = 199  before bounds
+1617245112 - 2021-04-01 02:45:12.472 Params().TargetTimespan() = 320    nActualTimespan = 199
+1617245119 - 2021-04-01 02:45:19.759   nActualTimespan = 199  before bounds
+1617245119 - 2021-04-01 02:45:19.759 Params().TargetTimespan() = 320    nActualTimespan = 199
+1617245707 - 2021-04-01 02:55:07.395   nActualTimespan = 586  before bounds
+1617245707 - 2021-04-01 02:55:07.395 Params().TargetTimespan() = 320    nActualTimespan = 586
+1617245714 - 2021-04-01 02:55:14.087   nActualTimespan = 586  before bounds
+1617245714 - 2021-04-01 02:55:14.087 Params().TargetTimespan() = 320    nActualTimespan = 586
+1617246034 - 2021-04-01 03:00:34.678   nActualTimespan = 318  before bounds
+1617246034 - 2021-04-01 03:00:34.678 Params().TargetTimespan() = 320    nActualTimespan = 318
+1617246048 - 2021-04-01 03:00:48.378   nActualTimespan = 318  before bounds
+1617246048 - 2021-04-01 03:00:48.378 Params().TargetTimespan() = 320    nActualTimespan = 318
+1617246393 - 2021-04-01 03:06:33.280   nActualTimespan = 344  before bounds
+1617246393 - 2021-04-01 03:06:33.280 Params().TargetTimespan() = 320    nActualTimespan = 344
+1617246400 - 2021-04-01 03:06:40.264   nActualTimespan = 344  before bounds
+1617246400 - 2021-04-01 03:06:40.264 Params().TargetTimespan() = 320    nActualTimespan = 344
+1617246690 - 2021-04-01 03:11:30.534   nActualTimespan = 289  before bounds
+1617246690 - 2021-04-01 03:11:30.534 Params().TargetTimespan() = 320    nActualTimespan = 289
+1617246697 - 2021-04-01 03:11:37.821   nActualTimespan = 289  before bounds
+1617246697 - 2021-04-01 03:11:37.822 Params().TargetTimespan() = 320    nActualTimespan = 289
+1617247005 - 2021-04-01 03:16:45.786   nActualTimespan = 305  before bounds
+1617247005 - 2021-04-01 03:16:45.786 Params().TargetTimespan() = 320    nActualTimespan = 305
+1617247018 - 2021-04-01 03:16:58.290   nActualTimespan = 305  before bounds
+1617247018 - 2021-04-01 03:16:58.290 Params().TargetTimespan() = 320    nActualTimespan = 305
+1617247203 - 2021-04-01 03:20:03.088   nActualTimespan = 184  before bounds
+1617247203 - 2021-04-01 03:20:03.088 Params().TargetTimespan() = 320    nActualTimespan = 184
+1617247224 - 2021-04-01 03:20:24.015   nActualTimespan = 184  before bounds
+1617247224 - 2021-04-01 03:20:24.015 Params().TargetTimespan() = 320    nActualTimespan = 184
+1617247630 - 2021-04-01 03:27:10.253   nActualTimespan = 405  before bounds
+1617247630 - 2021-04-01 03:27:10.253 Params().TargetTimespan() = 320    nActualTimespan = 405
+1617247659 - 2021-04-01 03:27:39.485   nActualTimespan = 405  before bounds
+1617247659 - 2021-04-01 03:27:39.485 Params().TargetTimespan() = 320    nActualTimespan = 405
+1617248075 - 2021-04-01 03:34:35.880   nActualTimespan = 415  before bounds
+1617248075 - 2021-04-01 03:34:35.880 Params().TargetTimespan() = 320    nActualTimespan = 415
+1617248087 - 2021-04-01 03:34:47.118   nActualTimespan = 415  before bounds
+1617248087 - 2021-04-01 03:34:47.118 Params().TargetTimespan() = 320    nActualTimespan = 415
+1617248392 - 2021-04-01 03:39:52.107   nActualTimespan = 304  before bounds
+1617248392 - 2021-04-01 03:39:52.107 Params().TargetTimespan() = 320    nActualTimespan = 304
+1617248403 - 2021-04-01 03:40:03.620   nActualTimespan = 304  before bounds
+1617248403 - 2021-04-01 03:40:03.620 Params().TargetTimespan() = 320    nActualTimespan = 304
+1617248709 - 2021-04-01 03:45:09.354   nActualTimespan = 305  before bounds
+1617248709 - 2021-04-01 03:45:09.354 Params().TargetTimespan() = 320    nActualTimespan = 305
+1617248717 - 2021-04-01 03:45:17.179   nActualTimespan = 305  before bounds
+1617248717 - 2021-04-01 03:45:17.179 Params().TargetTimespan() = 320    nActualTimespan = 305
+1617249053 - 2021-04-01 03:50:53.634   nActualTimespan = 335  before bounds
+1617249053 - 2021-04-01 03:50:53.634 Params().TargetTimespan() = 320    nActualTimespan = 335
+1617249114 - 2021-04-01 03:51:54.028   nActualTimespan = 335  before bounds
+1617249114 - 2021-04-01 03:51:54.028 Params().TargetTimespan() = 320    nActualTimespan = 335
+1617249117 - 2021-04-01 03:51:57.298   nActualTimespan = 335  before bounds
+1617249117 - 2021-04-01 03:51:57.298 Params().TargetTimespan() = 320    nActualTimespan = 335
+1617249556 - 2021-04-01 03:59:16.281   nActualTimespan = 438  before bounds
+1617249556 - 2021-04-01 03:59:16.281 Params().TargetTimespan() = 320    nActualTimespan = 438
+1617249573 - 2021-04-01 03:59:33.801   nActualTimespan = 438  before bounds
+1617249573 - 2021-04-01 03:59:33.801 Params().TargetTimespan() = 320    nActualTimespan = 438
+1617249808 - 2021-04-01 04:03:28.430   nActualTimespan = 234  before bounds
+1617249808 - 2021-04-01 04:03:28.430 Params().TargetTimespan() = 320    nActualTimespan = 234
+1617249814 - 2021-04-01 04:03:34.214   nActualTimespan = 234  before bounds
+1617249814 - 2021-04-01 04:03:34.214 Params().TargetTimespan() = 320    nActualTimespan = 234
+1617250161 - 2021-04-01 04:09:21.791   nActualTimespan = 346  before bounds
+1617250161 - 2021-04-01 04:09:21.791 Params().TargetTimespan() = 320    nActualTimespan = 346
+1617250168 - 2021-04-01 04:09:28.398   nActualTimespan = 346  before bounds
+1617250168 - 2021-04-01 04:09:28.398 Params().TargetTimespan() = 320    nActualTimespan = 346
+1617250463 - 2021-04-01 04:14:23.411   nActualTimespan = 294  before bounds
+1617250463 - 2021-04-01 04:14:23.411 Params().TargetTimespan() = 320    nActualTimespan = 294
+1617250470 - 2021-04-01 04:14:30.409   nActualTimespan = 294  before bounds
+1617250470 - 2021-04-01 04:14:30.409 Params().TargetTimespan() = 320    nActualTimespan = 294
+1617250807 - 2021-04-01 04:20:07.133   nActualTimespan = 335  before bounds
+1617250807 - 2021-04-01 04:20:07.133 Params().TargetTimespan() = 320    nActualTimespan = 335
+1617250838 - 2021-04-01 04:20:38.948   nActualTimespan = 335  before bounds
+1617250838 - 2021-04-01 04:20:38.948 Params().TargetTimespan() = 320    nActualTimespan = 335
+1617251065 - 2021-04-01 04:24:25.643   nActualTimespan = 225  before bounds
+1617251065 - 2021-04-01 04:24:25.643 Params().TargetTimespan() = 320    nActualTimespan = 225
+1617251126 - 2021-04-01 04:25:26.005   nActualTimespan = 225  before bounds
+1617251126 - 2021-04-01 04:25:26.005 Params().TargetTimespan() = 320    nActualTimespan = 225
+1617251134 - 2021-04-01 04:25:34.000   nActualTimespan = 225  before bounds
+1617251134 - 2021-04-01 04:25:34.000 Params().TargetTimespan() = 320    nActualTimespan = 225
+1617251560 - 2021-04-01 04:32:40.297   nActualTimespan = 424  before bounds
+1617251560 - 2021-04-01 04:32:40.297 Params().TargetTimespan() = 320    nActualTimespan = 424
+1617251566 - 2021-04-01 04:32:46.715   nActualTimespan = 424  before bounds
+1617251566 - 2021-04-01 04:32:46.715 Params().TargetTimespan() = 320    nActualTimespan = 424
+1617251945 - 2021-04-01 04:39:05.382   nActualTimespan = 378  before bounds
+1617251945 - 2021-04-01 04:39:05.382 Params().TargetTimespan() = 320    nActualTimespan = 378
+1617251946 - 2021-04-01 04:39:06.475   nActualTimespan = 378  before bounds
+1617251946 - 2021-04-01 04:39:06.475 Params().TargetTimespan() = 320    nActualTimespan = 378
+1617252221 - 2021-04-01 04:43:41.103   nActualTimespan = 273  before bounds
+1617252221 - 2021-04-01 04:43:41.103 Params().TargetTimespan() = 320    nActualTimespan = 273
+1617252224 - 2021-04-01 04:43:44.496   nActualTimespan = 273  before bounds
+1617252224 - 2021-04-01 04:43:44.496 Params().TargetTimespan() = 320    nActualTimespan = 273
+1617252491 - 2021-04-01 04:48:11.518   nActualTimespan = 265  before bounds
+1617252491 - 2021-04-01 04:48:11.518 Params().TargetTimespan() = 320    nActualTimespan = 265
+1617252509 - 2021-04-01 04:48:29.929   nActualTimespan = 265  before bounds
+1617252509 - 2021-04-01 04:48:29.929 Params().TargetTimespan() = 320    nActualTimespan = 265
+1617252940 - 2021-04-01 04:55:40.252   nActualTimespan = 429  before bounds
+1617252940 - 2021-04-01 04:55:40.252 Params().TargetTimespan() = 320    nActualTimespan = 429
+1617252949 - 2021-04-01 04:55:49.651   nActualTimespan = 429  before bounds
+1617252949 - 2021-04-01 04:55:49.651 Params().TargetTimespan() = 320    nActualTimespan = 429
+1617253331 - 2021-04-01 05:02:11.664   nActualTimespan = 380  before bounds
+1617253331 - 2021-04-01 05:02:11.665 Params().TargetTimespan() = 320    nActualTimespan = 380
+1617253335 - 2021-04-01 05:02:15.267   nActualTimespan = 380  before bounds
+1617253335 - 2021-04-01 05:02:15.267 Params().TargetTimespan() = 320    nActualTimespan = 380
+1617253608 - 2021-04-01 05:06:48.975   nActualTimespan = 272  before bounds
+1617253608 - 2021-04-01 05:06:48.975 Params().TargetTimespan() = 320    nActualTimespan = 272
+1617253613 - 2021-04-01 05:06:53.981   nActualTimespan = 272  before bounds
+1617253613 - 2021-04-01 05:06:53.981 Params().TargetTimespan() = 320    nActualTimespan = 272
+1617253891 - 2021-04-01 05:11:31.617   nActualTimespan = 276  before bounds
+1617253891 - 2021-04-01 05:11:31.617 Params().TargetTimespan() = 320    nActualTimespan = 276
+1617253946 - 2021-04-01 05:12:26.291   nActualTimespan = 276  before bounds
+1617253946 - 2021-04-01 05:12:26.291 Params().TargetTimespan() = 320    nActualTimespan = 276
+1617254363 - 2021-04-01 05:19:23.902   nActualTimespan = 416  before bounds
+1617254363 - 2021-04-01 05:19:23.902 Params().TargetTimespan() = 320    nActualTimespan = 416
+1617254367 - 2021-04-01 05:19:27.810   nActualTimespan = 416  before bounds
+1617254367 - 2021-04-01 05:19:27.810 Params().TargetTimespan() = 320    nActualTimespan = 416
+1617254600 - 2021-04-01 05:23:20.094   nActualTimespan = 230  before bounds
+1617254600 - 2021-04-01 05:23:20.094 Params().TargetTimespan() = 320    nActualTimespan = 230
+1617254607 - 2021-04-01 05:23:27.300   nActualTimespan = 230  before bounds
+1617254607 - 2021-04-01 05:23:27.300 Params().TargetTimespan() = 320    nActualTimespan = 230
+1617255091 - 2021-04-01 05:31:31.777   nActualTimespan = 483  before bounds
+1617255091 - 2021-04-01 05:31:31.777 Params().TargetTimespan() = 320    nActualTimespan = 483
+1617255098 - 2021-04-01 05:31:38.673   nActualTimespan = 483  before bounds
+1617255098 - 2021-04-01 05:31:38.673 Params().TargetTimespan() = 320    nActualTimespan = 483
+1617255287 - 2021-04-01 05:34:47.188   nActualTimespan = 187  before bounds
+1617255287 - 2021-04-01 05:34:47.189 Params().TargetTimespan() = 320    nActualTimespan = 187
+1617255290 - 2021-04-01 05:34:50.005   nActualTimespan = 187  before bounds
+1617255290 - 2021-04-01 05:34:50.005 Params().TargetTimespan() = 320    nActualTimespan = 187
+1617255644 - 2021-04-01 05:40:44.252   nActualTimespan = 351  before bounds
+1617255644 - 2021-04-01 05:40:44.252 Params().TargetTimespan() = 320    nActualTimespan = 351
+1617255667 - 2021-04-01 05:41:07.753   nActualTimespan = 351  before bounds
+1617255667 - 2021-04-01 05:41:07.753 Params().TargetTimespan() = 320    nActualTimespan = 351
+1617256088 - 2021-04-01 05:48:08.602   nActualTimespan = 419  before bounds
+1617256088 - 2021-04-01 05:48:08.603 Params().TargetTimespan() = 320    nActualTimespan = 419
+1617256094 - 2021-04-01 05:48:14.115   nActualTimespan = 419  before bounds
+1617256094 - 2021-04-01 05:48:14.115 Params().TargetTimespan() = 320    nActualTimespan = 419
+1617256335 - 2021-04-01 05:52:15.600   nActualTimespan = 240  before bounds
+1617256335 - 2021-04-01 05:52:15.601 Params().TargetTimespan() = 320    nActualTimespan = 240
+1617256337 - 2021-04-01 05:52:17.801   nActualTimespan = 240  before bounds
+1617256337 - 2021-04-01 05:52:17.801 Params().TargetTimespan() = 320    nActualTimespan = 240
+1617256729 - 2021-04-01 05:58:49.108   nActualTimespan = 390  before bounds
+1617256729 - 2021-04-01 05:58:49.108 Params().TargetTimespan() = 320    nActualTimespan = 390
+1617256768 - 2021-04-01 05:59:28.755   nActualTimespan = 390  before bounds
+1617256768 - 2021-04-01 05:59:28.755 Params().TargetTimespan() = 320    nActualTimespan = 390
+1617257126 - 2021-04-01 06:05:26.586   nActualTimespan = 356  before bounds
+1617257126 - 2021-04-01 06:05:26.586 Params().TargetTimespan() = 320    nActualTimespan = 356
+1617257130 - 2021-04-01 06:05:30.172   nActualTimespan = 356  before bounds
+1617257130 - 2021-04-01 06:05:30.173 Params().TargetTimespan() = 320    nActualTimespan = 356
+1617257415 - 2021-04-01 06:10:15.437   nActualTimespan = 284  before bounds
+1617257415 - 2021-04-01 06:10:15.437 Params().TargetTimespan() = 320    nActualTimespan = 284
+1617257440 - 2021-04-01 06:10:40.778   nActualTimespan = 284  before bounds
+1617257440 - 2021-04-01 06:10:40.778 Params().TargetTimespan() = 320    nActualTimespan = 284
+1617257700 - 2021-04-01 06:15:00.562   nActualTimespan = 257  before bounds
+1617257700 - 2021-04-01 06:15:00.562 Params().TargetTimespan() = 320    nActualTimespan = 257
+1617257728 - 2021-04-01 06:15:28.924   nActualTimespan = 257  before bounds
+1617257728 - 2021-04-01 06:15:28.924 Params().TargetTimespan() = 320    nActualTimespan = 257
+1617258135 - 2021-04-01 06:22:15.411   nActualTimespan = 405  before bounds
+1617258135 - 2021-04-01 06:22:15.411 Params().TargetTimespan() = 320    nActualTimespan = 405
+1617258158 - 2021-04-01 06:22:38.421   nActualTimespan = 405  before bounds
+1617258158 - 2021-04-01 06:22:38.421 Params().TargetTimespan() = 320    nActualTimespan = 405
+1617258480 - 2021-04-01 06:28:00.052   nActualTimespan = 320  before bounds
+1617258480 - 2021-04-01 06:28:00.052 Params().TargetTimespan() = 320    nActualTimespan = 320
+1617258505 - 2021-04-01 06:28:25.910   nActualTimespan = 320  before bounds
+1617258505 - 2021-04-01 06:28:25.910 Params().TargetTimespan() = 320    nActualTimespan = 320
+1617258771 - 2021-04-01 06:32:51.378   nActualTimespan = 264  before bounds
+1617258771 - 2021-04-01 06:32:51.378 Params().TargetTimespan() = 320    nActualTimespan = 264
+1617258777 - 2021-04-01 06:32:57.681   nActualTimespan = 264  before bounds
+1617258777 - 2021-04-01 06:32:57.681 Params().TargetTimespan() = 320    nActualTimespan = 264
+1617259041 - 2021-04-01 06:37:21.109   nActualTimespan = 262  before bounds
+1617259041 - 2021-04-01 06:37:21.109 Params().TargetTimespan() = 320    nActualTimespan = 262
+1617259085 - 2021-04-01 06:38:05.685   nActualTimespan = 262  before bounds
+1617259085 - 2021-04-01 06:38:05.685 Params().TargetTimespan() = 320    nActualTimespan = 262
+1617259481 - 2021-04-01 06:44:41.553   nActualTimespan = 395  before bounds
+1617259481 - 2021-04-01 06:44:41.553 Params().TargetTimespan() = 320    nActualTimespan = 395
+1617259492 - 2021-04-01 06:44:52.962   nActualTimespan = 395  before bounds
+1617259492 - 2021-04-01 06:44:52.962 Params().TargetTimespan() = 320    nActualTimespan = 395
+1617259921 - 2021-04-01 06:52:01.371   nActualTimespan = 427  before bounds
+1617259921 - 2021-04-01 06:52:01.371 Params().TargetTimespan() = 320    nActualTimespan = 427
+1617259947 - 2021-04-01 06:52:27.120   nActualTimespan = 427  before bounds
+1617259947 - 2021-04-01 06:52:27.120 Params().TargetTimespan() = 320    nActualTimespan = 427
+1617260287 - 2021-04-01 06:58:07.954   nActualTimespan = 340  before bounds
+1617260287 - 2021-04-01 06:58:07.955 Params().TargetTimespan() = 320    nActualTimespan = 340
+1617260296 - 2021-04-01 06:58:16.459   nActualTimespan = 340  before bounds
+1617260296 - 2021-04-01 06:58:16.459 Params().TargetTimespan() = 320    nActualTimespan = 340
+1617260554 - 2021-04-01 07:02:34.512   nActualTimespan = 257  before bounds
+1617260554 - 2021-04-01 07:02:34.512 Params().TargetTimespan() = 320    nActualTimespan = 257
+1617260563 - 2021-04-01 07:02:43.766   nActualTimespan = 257  before bounds
+1617260563 - 2021-04-01 07:02:43.766 Params().TargetTimespan() = 320    nActualTimespan = 257
+1617260791 - 2021-04-01 07:06:31.828   nActualTimespan = 226  before bounds
+1617260791 - 2021-04-01 07:06:31.828 Params().TargetTimespan() = 320    nActualTimespan = 226
+1617260812 - 2021-04-01 07:06:52.140   nActualTimespan = 226  before bounds
+1617260812 - 2021-04-01 07:06:52.140 Params().TargetTimespan() = 320    nActualTimespan = 226
+1617261158 - 2021-04-01 07:12:38.346   nActualTimespan = 346  before bounds
+1617261158 - 2021-04-01 07:12:38.346 Params().TargetTimespan() = 320    nActualTimespan = 346
+1617261178 - 2021-04-01 07:12:58.747   nActualTimespan = 346  before bounds
+1617261178 - 2021-04-01 07:12:58.747 Params().TargetTimespan() = 320    nActualTimespan = 346
+1617261600 - 2021-04-01 07:20:00.057   nActualTimespan = 419  before bounds
+1617261600 - 2021-04-01 07:20:00.057 Params().TargetTimespan() = 320    nActualTimespan = 419
+1617261618 - 2021-04-01 07:20:18.081   nActualTimespan = 419  before bounds
+1617261618 - 2021-04-01 07:20:18.081 Params().TargetTimespan() = 320    nActualTimespan = 419
+1617261964 - 2021-04-01 07:26:04.394   nActualTimespan = 345  before bounds
+1617261964 - 2021-04-01 07:26:04.394 Params().TargetTimespan() = 320    nActualTimespan = 345
+1617261966 - 2021-04-01 07:26:06.893   nActualTimespan = 345  before bounds
+1617261966 - 2021-04-01 07:26:06.893 Params().TargetTimespan() = 320    nActualTimespan = 345
+1617262313 - 2021-04-01 07:31:53.636   nActualTimespan = 345  before bounds
+1617262313 - 2021-04-01 07:31:53.636 Params().TargetTimespan() = 320    nActualTimespan = 345
+1617262374 - 2021-04-01 07:32:54.015   nActualTimespan = 345  before bounds
+1617262374 - 2021-04-01 07:32:54.015 Params().TargetTimespan() = 320    nActualTimespan = 345
+1617262379 - 2021-04-01 07:32:59.349   nActualTimespan = 345  before bounds
+1617262379 - 2021-04-01 07:32:59.349 Params().TargetTimespan() = 320    nActualTimespan = 345
+1617262615 - 2021-04-01 07:36:55.531   nActualTimespan = 235  before bounds
+1617262615 - 2021-04-01 07:36:55.531 Params().TargetTimespan() = 320    nActualTimespan = 235
+1617262623 - 2021-04-01 07:37:03.833   nActualTimespan = 235  before bounds
+1617262623 - 2021-04-01 07:37:03.833 Params().TargetTimespan() = 320    nActualTimespan = 235
+1617262911 - 2021-04-01 07:41:51.342   nActualTimespan = 286  before bounds
+1617262911 - 2021-04-01 07:41:51.342 Params().TargetTimespan() = 320    nActualTimespan = 286
+1617262913 - 2021-04-01 07:41:53.743   nActualTimespan = 286  before bounds
+1617262913 - 2021-04-01 07:41:53.743 Params().TargetTimespan() = 320    nActualTimespan = 286
+1617263305 - 2021-04-01 07:48:25.666   nActualTimespan = 389  before bounds
+1617263305 - 2021-04-01 07:48:25.666 Params().TargetTimespan() = 320    nActualTimespan = 389
+1617263312 - 2021-04-01 07:48:32.373   nActualTimespan = 389  before bounds
+1617263312 - 2021-04-01 07:48:32.373 Params().TargetTimespan() = 320    nActualTimespan = 389
+1617263874 - 2021-04-01 07:57:54.932   nActualTimespan = 561  before bounds
+1617263874 - 2021-04-01 07:57:54.932 Params().TargetTimespan() = 320    nActualTimespan = 561
+1617263882 - 2021-04-01 07:58:02.613   nActualTimespan = 561  before bounds
+1617263882 - 2021-04-01 07:58:02.613 Params().TargetTimespan() = 320    nActualTimespan = 561
+1617264104 - 2021-04-01 08:01:44.580   nActualTimespan = 221  before bounds
+1617264104 - 2021-04-01 08:01:44.580 Params().TargetTimespan() = 320    nActualTimespan = 221
+1617264118 - 2021-04-01 08:01:58.219   nActualTimespan = 221  before bounds
+1617264118 - 2021-04-01 08:01:58.219 Params().TargetTimespan() = 320    nActualTimespan = 221
+1617264451 - 2021-04-01 08:07:31.955   nActualTimespan = 332  before bounds
+1617264451 - 2021-04-01 08:07:31.955 Params().TargetTimespan() = 320    nActualTimespan = 332
+1617264454 - 2021-04-01 08:07:34.440   nActualTimespan = 332  before bounds
+1617264454 - 2021-04-01 08:07:34.440 Params().TargetTimespan() = 320    nActualTimespan = 332
+1617264766 - 2021-04-01 08:12:46.531   nActualTimespan = 311  before bounds
+1617264766 - 2021-04-01 08:12:46.531 Params().TargetTimespan() = 320    nActualTimespan = 311
+1617264777 - 2021-04-01 08:12:57.542   nActualTimespan = 311  before bounds
+1617264777 - 2021-04-01 08:12:57.543 Params().TargetTimespan() = 320    nActualTimespan = 311
+1617265070 - 2021-04-01 08:17:50.424   nActualTimespan = 291  before bounds
+1617265070 - 2021-04-01 08:17:50.425 Params().TargetTimespan() = 320    nActualTimespan = 291
+1617265077 - 2021-04-01 08:17:57.811   nActualTimespan = 291  before bounds
+1617265077 - 2021-04-01 08:17:57.811 Params().TargetTimespan() = 320    nActualTimespan = 291
+1617265428 - 2021-04-01 08:23:48.809   nActualTimespan = 349  before bounds
+1617265428 - 2021-04-01 08:23:48.809 Params().TargetTimespan() = 320    nActualTimespan = 349
+1617265431 - 2021-04-01 08:23:51.914   nActualTimespan = 349  before bounds
+1617265431 - 2021-04-01 08:23:51.914 Params().TargetTimespan() = 320    nActualTimespan = 349
+1617265673 - 2021-04-01 08:27:53.724   nActualTimespan = 241  before bounds
+1617265673 - 2021-04-01 08:27:53.724 Params().TargetTimespan() = 320    nActualTimespan = 241
+1617265691 - 2021-04-01 08:28:11.744   nActualTimespan = 241  before bounds
+1617265691 - 2021-04-01 08:28:11.744 Params().TargetTimespan() = 320    nActualTimespan = 241
+1617266063 - 2021-04-01 08:34:23.522   nActualTimespan = 371  before bounds
+1617266063 - 2021-04-01 08:34:23.522 Params().TargetTimespan() = 320    nActualTimespan = 371
+1617266066 - 2021-04-01 08:34:26.129   nActualTimespan = 371  before bounds
+1617266066 - 2021-04-01 08:34:26.129 Params().TargetTimespan() = 320    nActualTimespan = 371
+1617266535 - 2021-04-01 08:42:15.111   nActualTimespan = 468  before bounds
+1617266535 - 2021-04-01 08:42:15.111 Params().TargetTimespan() = 320    nActualTimespan = 468
+1617266537 - 2021-04-01 08:42:17.109   nActualTimespan = 468  before bounds
+1617266537 - 2021-04-01 08:42:17.109 Params().TargetTimespan() = 320    nActualTimespan = 468
+1617266812 - 2021-04-01 08:46:52.081   nActualTimespan = 274  before bounds
+1617266812 - 2021-04-01 08:46:52.081 Params().TargetTimespan() = 320    nActualTimespan = 274
+1617266819 - 2021-04-01 08:46:59.976   nActualTimespan = 274  before bounds
+1617266819 - 2021-04-01 08:46:59.976 Params().TargetTimespan() = 320    nActualTimespan = 274
+1617267114 - 2021-04-01 08:51:54.388   nActualTimespan = 293  before bounds
+1617267114 - 2021-04-01 08:51:54.388 Params().TargetTimespan() = 320    nActualTimespan = 293
+1617267116 - 2021-04-01 08:51:56.781   nActualTimespan = 293  before bounds
+1617267116 - 2021-04-01 08:51:56.781 Params().TargetTimespan() = 320    nActualTimespan = 293
+1617267507 - 2021-04-01 08:58:27.215   nActualTimespan = 388  before bounds
+1617267507 - 2021-04-01 08:58:27.215 Params().TargetTimespan() = 320    nActualTimespan = 388
+1617267532 - 2021-04-01 08:58:52.112   nActualTimespan = 388  before bounds
+1617267532 - 2021-04-01 08:58:52.113 Params().TargetTimespan() = 320    nActualTimespan = 388
+1617267743 - 2021-04-01 09:02:23.556   nActualTimespan = 210  before bounds
+1617267743 - 2021-04-01 09:02:23.557 Params().TargetTimespan() = 320    nActualTimespan = 210
+1617267745 - 2021-04-01 09:02:25.440   nActualTimespan = 210  before bounds
+1617267745 - 2021-04-01 09:02:25.440 Params().TargetTimespan() = 320    nActualTimespan = 210
+1617268129 - 2021-04-01 09:08:49.122   nActualTimespan = 382  before bounds
+1617268129 - 2021-04-01 09:08:49.122 Params().TargetTimespan() = 320    nActualTimespan = 382
+1617268176 - 2021-04-01 09:09:36.233   nActualTimespan = 382  before bounds
+1617268176 - 2021-04-01 09:09:36.233 Params().TargetTimespan() = 320    nActualTimespan = 382
+1617268497 - 2021-04-01 09:14:57.836   nActualTimespan = 320  before bounds
+1617268497 - 2021-04-01 09:14:57.836 Params().TargetTimespan() = 320    nActualTimespan = 320
+1617268511 - 2021-04-01 09:15:11.651   nActualTimespan = 320  before bounds
+1617268511 - 2021-04-01 09:15:11.651 Params().TargetTimespan() = 320    nActualTimespan = 320
+1617268857 - 2021-04-01 09:20:57.101   nActualTimespan = 344  before bounds
+1617268857 - 2021-04-01 09:20:57.101 Params().TargetTimespan() = 320    nActualTimespan = 344
+1617268864 - 2021-04-01 09:21:04.513   nActualTimespan = 344  before bounds
+1617268864 - 2021-04-01 09:21:04.513 Params().TargetTimespan() = 320    nActualTimespan = 344
+1617269133 - 2021-04-01 09:25:33.866   nActualTimespan = 267  before bounds
+1617269133 - 2021-04-01 09:25:33.866 Params().TargetTimespan() = 320    nActualTimespan = 267
+1617269146 - 2021-04-01 09:25:46.392   nActualTimespan = 267  before bounds
+1617269146 - 2021-04-01 09:25:46.392 Params().TargetTimespan() = 320    nActualTimespan = 267
+1617269579 - 2021-04-01 09:32:59.948   nActualTimespan = 432  before bounds
+1617269579 - 2021-04-01 09:32:59.948 Params().TargetTimespan() = 320    nActualTimespan = 432
+1617269583 - 2021-04-01 09:33:03.334   nActualTimespan = 432  before bounds
+1617269583 - 2021-04-01 09:33:03.334 Params().TargetTimespan() = 320    nActualTimespan = 432
+1617269849 - 2021-04-01 09:37:29.573   nActualTimespan = 265  before bounds
+1617269849 - 2021-04-01 09:37:29.573 Params().TargetTimespan() = 320    nActualTimespan = 265
+1617269853 - 2021-04-01 09:37:33.354   nActualTimespan = 265  before bounds
+1617269853 - 2021-04-01 09:37:33.354 Params().TargetTimespan() = 320    nActualTimespan = 265
+1617270119 - 2021-04-01 09:41:59.571   nActualTimespan = 265  before bounds
+1617270119 - 2021-04-01 09:41:59.571 Params().TargetTimespan() = 320    nActualTimespan = 265
+1617270167 - 2021-04-01 09:42:47.225   nActualTimespan = 265  before bounds
+1617270167 - 2021-04-01 09:42:47.225 Params().TargetTimespan() = 320    nActualTimespan = 265
+1617270488 - 2021-04-01 09:48:08.366   nActualTimespan = 320  before bounds
+1617270488 - 2021-04-01 09:48:08.367 Params().TargetTimespan() = 320    nActualTimespan = 320
+1617270549 - 2021-04-01 09:49:09.014   nActualTimespan = 320  before bounds
+1617270549 - 2021-04-01 09:49:09.014 Params().TargetTimespan() = 320    nActualTimespan = 320
+1617270556 - 2021-04-01 09:49:16.073   nActualTimespan = 320  before bounds
+1617270556 - 2021-04-01 09:49:16.073 Params().TargetTimespan() = 320    nActualTimespan = 320
+1617270910 - 2021-04-01 09:55:10.362   nActualTimespan = 351  before bounds
+1617270910 - 2021-04-01 09:55:10.362 Params().TargetTimespan() = 320    nActualTimespan = 351
+1617270919 - 2021-04-01 09:55:19.349   nActualTimespan = 351  before bounds
+1617270919 - 2021-04-01 09:55:19.349 Params().TargetTimespan() = 320    nActualTimespan = 351
+1617271271 - 2021-04-01 10:01:11.684   nActualTimespan = 351  before bounds
+1617271271 - 2021-04-01 10:01:11.684 Params().TargetTimespan() = 320    nActualTimespan = 351
+1617271277 - 2021-04-01 10:01:17.068   nActualTimespan = 351  before bounds
+1617271277 - 2021-04-01 10:01:17.068 Params().TargetTimespan() = 320    nActualTimespan = 351
+1617271634 - 2021-04-01 10:07:14.336   nActualTimespan = 356  before bounds
+1617271634 - 2021-04-01 10:07:14.336 Params().TargetTimespan() = 320    nActualTimespan = 356
+1617271640 - 2021-04-01 10:07:20.038   nActualTimespan = 356  before bounds
+1617271640 - 2021-04-01 10:07:20.038 Params().TargetTimespan() = 320    nActualTimespan = 356
+1617271837 - 2021-04-01 10:10:37.985   nActualTimespan = 197  before bounds
+1617271837 - 2021-04-01 10:10:37.985 Params().TargetTimespan() = 320    nActualTimespan = 197
+1617271875 - 2021-04-01 10:11:15.932   nActualTimespan = 197  before bounds
+1617271875 - 2021-04-01 10:11:15.932 Params().TargetTimespan() = 320    nActualTimespan = 197
+1617272276 - 2021-04-01 10:17:56.951   nActualTimespan = 399  before bounds
+1617272276 - 2021-04-01 10:17:56.951 Params().TargetTimespan() = 320    nActualTimespan = 399
+1617272286 - 2021-04-01 10:18:06.170   nActualTimespan = 399  before bounds
+1617272286 - 2021-04-01 10:18:06.170 Params().TargetTimespan() = 320    nActualTimespan = 399
+1617272703 - 2021-04-01 10:25:03.519   nActualTimespan = 416  before bounds
+1617272703 - 2021-04-01 10:25:03.519 Params().TargetTimespan() = 320    nActualTimespan = 416
+1617272722 - 2021-04-01 10:25:22.043   nActualTimespan = 416  before bounds
+1617272722 - 2021-04-01 10:25:22.043 Params().TargetTimespan() = 320    nActualTimespan = 416
+1617272963 - 2021-04-01 10:29:23.380   nActualTimespan = 240  before bounds
+1617272963 - 2021-04-01 10:29:23.380 Params().TargetTimespan() = 320    nActualTimespan = 240
+1617272967 - 2021-04-01 10:29:27.259   nActualTimespan = 240  before bounds
+1617272967 - 2021-04-01 10:29:27.259 Params().TargetTimespan() = 320    nActualTimespan = 240
+1617273203 - 2021-04-01 10:33:23.755   nActualTimespan = 235  before bounds
+1617273203 - 2021-04-01 10:33:23.755 Params().TargetTimespan() = 320    nActualTimespan = 235
+1617273262 - 2021-04-01 10:34:22.123   nActualTimespan = 235  before bounds
+1617273262 - 2021-04-01 10:34:22.123 Params().TargetTimespan() = 320    nActualTimespan = 235
+1617264766 - 2021-04-01 08:12:46.531   nActualTimespan = 311  before bounds
+1617264766 - 2021-04-01 08:12:46.531 Params().TargetTimespan() = 320    nActualTimespan = 311
+1617264777 - 2021-04-01 08:12:57.542   nActualTimespan = 311  before bounds
+1617264777 - 2021-04-01 08:12:57.543 Params().TargetTimespan() = 320    nActualTimespan = 311
+1617265070 - 2021-04-01 08:17:50.424   nActualTimespan = 291  before bounds
+1617265070 - 2021-04-01 08:17:50.425 Params().TargetTimespan() = 320    nActualTimespan = 291
+1617265077 - 2021-04-01 08:17:57.811   nActualTimespan = 291  before bounds
+1617265077 - 2021-04-01 08:17:57.811 Params().TargetTimespan() = 320    nActualTimespan = 291
+1617265428 - 2021-04-01 08:23:48.809   nActualTimespan = 349  before bounds
+1617265428 - 2021-04-01 08:23:48.809 Params().TargetTimespan() = 320    nActualTimespan = 349
+1617265431 - 2021-04-01 08:23:51.914   nActualTimespan = 349  before bounds
+1617265431 - 2021-04-01 08:23:51.914 Params().TargetTimespan() = 320    nActualTimespan = 349
+1617265673 - 2021-04-01 08:27:53.724   nActualTimespan = 241  before bounds
+1617265673 - 2021-04-01 08:27:53.724 Params().TargetTimespan() = 320    nActualTimespan = 241
+1617265691 - 2021-04-01 08:28:11.744   nActualTimespan = 241  before bounds
+1617265691 - 2021-04-01 08:28:11.744 Params().TargetTimespan() = 320    nActualTimespan = 241
+1617266063 - 2021-04-01 08:34:23.522   nActualTimespan = 371  before bounds
+1617266063 - 2021-04-01 08:34:23.522 Params().TargetTimespan() = 320    nActualTimespan = 371
+1617266066 - 2021-04-01 08:34:26.129   nActualTimespan = 371  before bounds
+1617266066 - 2021-04-01 08:34:26.129 Params().TargetTimespan() = 320    nActualTimespan = 371
+1617266535 - 2021-04-01 08:42:15.111   nActualTimespan = 468  before bounds
+1617266535 - 2021-04-01 08:42:15.111 Params().TargetTimespan() = 320    nActualTimespan = 468
+1617266537 - 2021-04-01 08:42:17.109   nActualTimespan = 468  before bounds
+1617266537 - 2021-04-01 08:42:17.109 Params().TargetTimespan() = 320    nActualTimespan = 468
+1617266812 - 2021-04-01 08:46:52.081   nActualTimespan = 274  before bounds
+1617266812 - 2021-04-01 08:46:52.081 Params().TargetTimespan() = 320    nActualTimespan = 274
+1617266819 - 2021-04-01 08:46:59.976   nActualTimespan = 274  before bounds
+1617266819 - 2021-04-01 08:46:59.976 Params().TargetTimespan() = 320    nActualTimespan = 274
+1617267114 - 2021-04-01 08:51:54.388   nActualTimespan = 293  before bounds
+1617267114 - 2021-04-01 08:51:54.388 Params().TargetTimespan() = 320    nActualTimespan = 293
+1617267116 - 2021-04-01 08:51:56.781   nActualTimespan = 293  before bounds
+1617267116 - 2021-04-01 08:51:56.781 Params().TargetTimespan() = 320    nActualTimespan = 293
+1617267507 - 2021-04-01 08:58:27.215   nActualTimespan = 388  before bounds
+1617267507 - 2021-04-01 08:58:27.215 Params().TargetTimespan() = 320    nActualTimespan = 388
+1617267532 - 2021-04-01 08:58:52.112   nActualTimespan = 388  before bounds
+1617267532 - 2021-04-01 08:58:52.113 Params().TargetTimespan() = 320    nActualTimespan = 388
+1617267743 - 2021-04-01 09:02:23.556   nActualTimespan = 210  before bounds
+1617267743 - 2021-04-01 09:02:23.557 Params().TargetTimespan() = 320    nActualTimespan = 210
+1617267745 - 2021-04-01 09:02:25.440   nActualTimespan = 210  before bounds
+1617267745 - 2021-04-01 09:02:25.440 Params().TargetTimespan() = 320    nActualTimespan = 210
+1617268129 - 2021-04-01 09:08:49.122   nActualTimespan = 382  before bounds
+1617268129 - 2021-04-01 09:08:49.122 Params().TargetTimespan() = 320    nActualTimespan = 382
+1617268176 - 2021-04-01 09:09:36.233   nActualTimespan = 382  before bounds
+1617268176 - 2021-04-01 09:09:36.233 Params().TargetTimespan() = 320    nActualTimespan = 382
+1617268497 - 2021-04-01 09:14:57.836   nActualTimespan = 320  before bounds
+1617268497 - 2021-04-01 09:14:57.836 Params().TargetTimespan() = 320    nActualTimespan = 320
+1617268511 - 2021-04-01 09:15:11.651   nActualTimespan = 320  before bounds
+1617268511 - 2021-04-01 09:15:11.651 Params().TargetTimespan() = 320    nActualTimespan = 320
+1617268857 - 2021-04-01 09:20:57.101   nActualTimespan = 344  before bounds
+1617268857 - 2021-04-01 09:20:57.101 Params().TargetTimespan() = 320    nActualTimespan = 344
+1617268864 - 2021-04-01 09:21:04.513   nActualTimespan = 344  before bounds
+1617268864 - 2021-04-01 09:21:04.513 Params().TargetTimespan() = 320    nActualTimespan = 344
+1617269133 - 2021-04-01 09:25:33.866   nActualTimespan = 267  before bounds
+1617269133 - 2021-04-01 09:25:33.866 Params().TargetTimespan() = 320    nActualTimespan = 267
+1617269146 - 2021-04-01 09:25:46.392   nActualTimespan = 267  before bounds
+1617269146 - 2021-04-01 09:25:46.392 Params().TargetTimespan() = 320    nActualTimespan = 267
+1617269579 - 2021-04-01 09:32:59.948   nActualTimespan = 432  before bounds
+1617269579 - 2021-04-01 09:32:59.948 Params().TargetTimespan() = 320    nActualTimespan = 432
+1617269583 - 2021-04-01 09:33:03.334   nActualTimespan = 432  before bounds
+1617269583 - 2021-04-01 09:33:03.334 Params().TargetTimespan() = 320    nActualTimespan = 432
+1617269849 - 2021-04-01 09:37:29.573   nActualTimespan = 265  before bounds
+1617269849 - 2021-04-01 09:37:29.573 Params().TargetTimespan() = 320    nActualTimespan = 265
+1617269853 - 2021-04-01 09:37:33.354   nActualTimespan = 265  before bounds
+1617269853 - 2021-04-01 09:37:33.354 Params().TargetTimespan() = 320    nActualTimespan = 265
+1617270119 - 2021-04-01 09:41:59.571   nActualTimespan = 265  before bounds
+1617270119 - 2021-04-01 09:41:59.571 Params().TargetTimespan() = 320    nActualTimespan = 265
+1617270167 - 2021-04-01 09:42:47.225   nActualTimespan = 265  before bounds
+1617270167 - 2021-04-01 09:42:47.225 Params().TargetTimespan() = 320    nActualTimespan = 265
+1617270488 - 2021-04-01 09:48:08.366   nActualTimespan = 320  before bounds
+1617270488 - 2021-04-01 09:48:08.367 Params().TargetTimespan() = 320    nActualTimespan = 320
+1617270549 - 2021-04-01 09:49:09.014   nActualTimespan = 320  before bounds
+1617270549 - 2021-04-01 09:49:09.014 Params().TargetTimespan() = 320    nActualTimespan = 320
+1617270556 - 2021-04-01 09:49:16.073   nActualTimespan = 320  before bounds
+1617270556 - 2021-04-01 09:49:16.073 Params().TargetTimespan() = 320    nActualTimespan = 320
+1617270910 - 2021-04-01 09:55:10.362   nActualTimespan = 351  before bounds
+1617270910 - 2021-04-01 09:55:10.362 Params().TargetTimespan() = 320    nActualTimespan = 351
+1617270919 - 2021-04-01 09:55:19.349   nActualTimespan = 351  before bounds
+1617270919 - 2021-04-01 09:55:19.349 Params().TargetTimespan() = 320    nActualTimespan = 351
+1617271271 - 2021-04-01 10:01:11.684   nActualTimespan = 351  before bounds
+1617271271 - 2021-04-01 10:01:11.684 Params().TargetTimespan() = 320    nActualTimespan = 351
+1617271277 - 2021-04-01 10:01:17.068   nActualTimespan = 351  before bounds
+1617271277 - 2021-04-01 10:01:17.068 Params().TargetTimespan() = 320    nActualTimespan = 351
+1617271634 - 2021-04-01 10:07:14.336   nActualTimespan = 356  before bounds
+1617271634 - 2021-04-01 10:07:14.336 Params().TargetTimespan() = 320    nActualTimespan = 356
+1617271640 - 2021-04-01 10:07:20.038   nActualTimespan = 356  before bounds
+1617271640 - 2021-04-01 10:07:20.038 Params().TargetTimespan() = 320    nActualTimespan = 356
+1617271837 - 2021-04-01 10:10:37.985   nActualTimespan = 197  before bounds
+1617271837 - 2021-04-01 10:10:37.985 Params().TargetTimespan() = 320    nActualTimespan = 197
+1617271875 - 2021-04-01 10:11:15.932   nActualTimespan = 197  before bounds
+1617271875 - 2021-04-01 10:11:15.932 Params().TargetTimespan() = 320    nActualTimespan = 197
+1617272276 - 2021-04-01 10:17:56.951   nActualTimespan = 399  before bounds
+1617272276 - 2021-04-01 10:17:56.951 Params().TargetTimespan() = 320    nActualTimespan = 399
+1617272286 - 2021-04-01 10:18:06.170   nActualTimespan = 399  before bounds
+1617272286 - 2021-04-01 10:18:06.170 Params().TargetTimespan() = 320    nActualTimespan = 399
+1617272703 - 2021-04-01 10:25:03.519   nActualTimespan = 416  before bounds
+1617272703 - 2021-04-01 10:25:03.519 Params().TargetTimespan() = 320    nActualTimespan = 416
+1617272722 - 2021-04-01 10:25:22.043   nActualTimespan = 416  before bounds
+1617272722 - 2021-04-01 10:25:22.043 Params().TargetTimespan() = 320    nActualTimespan = 416
+1617272963 - 2021-04-01 10:29:23.380   nActualTimespan = 240  before bounds
+1617272963 - 2021-04-01 10:29:23.380 Params().TargetTimespan() = 320    nActualTimespan = 240
+1617272967 - 2021-04-01 10:29:27.259   nActualTimespan = 240  before bounds
+1617272967 - 2021-04-01 10:29:27.259 Params().TargetTimespan() = 320    nActualTimespan = 240
+1617273203 - 2021-04-01 10:33:23.755   nActualTimespan = 235  before bounds
+1617273203 - 2021-04-01 10:33:23.755 Params().TargetTimespan() = 320    nActualTimespan = 235
+1617273262 - 2021-04-01 10:34:22.123   nActualTimespan = 235  before bounds
+1617273262 - 2021-04-01 10:34:22.123 Params().TargetTimespan() = 320    nActualTimespan = 235
+1617273795 - 2021-04-01 10:43:15.422   nActualTimespan = 532  before bounds
+1617273795 - 2021-04-01 10:43:15.422 Params().TargetTimespan() = 320    nActualTimespan = 532
+1617273801 - 2021-04-01 10:43:21.417   nActualTimespan = 532  before bounds
+1617273801 - 2021-04-01 10:43:21.417 Params().TargetTimespan() = 320    nActualTimespan = 532
+1617274081 - 2021-04-01 10:48:01.210   nActualTimespan = 278  before bounds
+1617274081 - 2021-04-01 10:48:01.210 Params().TargetTimespan() = 320    nActualTimespan = 278
+1617274095 - 2021-04-01 10:48:15.213   nActualTimespan = 278  before bounds
+1617274095 - 2021-04-01 10:48:15.213 Params().TargetTimespan() = 320    nActualTimespan = 278
+1617274629 - 2021-04-01 10:57:09.044   nActualTimespan = 531  before bounds
+1617274629 - 2021-04-01 10:57:09.044 Params().TargetTimespan() = 320    nActualTimespan = 531
+1617274633 - 2021-04-01 10:57:13.483   nActualTimespan = 531  before bounds
+1617274633 - 2021-04-01 10:57:13.483 Params().TargetTimespan() = 320    nActualTimespan = 531
+1617274807 - 2021-04-01 11:00:07.952   nActualTimespan = 173  before bounds
+1617274807 - 2021-04-01 11:00:07.952 Params().TargetTimespan() = 320    nActualTimespan = 173
+1617274808 - 2021-04-01 11:00:08.626   nActualTimespan = 173  before bounds
+1617274808 - 2021-04-01 11:00:08.626 Params().TargetTimespan() = 320    nActualTimespan = 173
+1617275232 - 2021-04-01 11:07:12.910   nActualTimespan = 422  before bounds
+1617275232 - 2021-04-01 11:07:12.910 Params().TargetTimespan() = 320    nActualTimespan = 422
+1617275256 - 2021-04-01 11:07:36.735   nActualTimespan = 422  before bounds
+1617275256 - 2021-04-01 11:07:36.735 Params().TargetTimespan() = 320    nActualTimespan = 422
